@@ -1,5 +1,5 @@
-# Placing-Tourist-Spot-in-Smart-Cities-based-on-Crowdsourcing-and-Median-Voting-Rule
-Data repository for "Placing Tourist Spot in Smart Cities based on Crowdsourcing and Median Voting Rule."
+# Placing Tourist Spots in Smart Cities: A Crowdsourced Game Theoretic Approach
+Data repository for "Placing Tourist Spots in Smart Cities: A Crowdsourced Game Theoretic Approach."
 
 This is the data repository for the paper entitled "Placing Tourist Spot in Smart Cities based on Crowdsourcing and Median Voting Rule."
 
